@@ -1,0 +1,28 @@
+{
+    "id": "BD4516BB",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1770022833060.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "id": "ba0d36cb8c16479d91616f059d322406",
+        "name": "road_to_point_distances",
+        "title": "road_to_point_distances",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3334147297449561695,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1770022833060,
+    "read_only": false,
+    "read_only_alternatives": []
+}

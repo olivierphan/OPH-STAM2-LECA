@@ -1,0 +1,28 @@
+{
+    "id": "8BEDCEED",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1770027825371.0,
+    "source_on_save": false,
+    "relative_order": 11,
+    "properties": {
+        "id": "1edb706ffc8348ea94302bfea4044d92",
+        "name": "nearest_road_to_point",
+        "title": "nearest_road_to_point",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 4708590611594005709,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1770027825371,
+    "read_only": false,
+    "read_only_alternatives": []
+}

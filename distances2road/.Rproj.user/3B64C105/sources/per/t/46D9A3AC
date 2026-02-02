@@ -1,0 +1,28 @@
+{
+    "id": "46D9A3AC",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1770025620753.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "id": "cfe06a0dbb104dbab466e5a705719069",
+        "name": "topo_profile_candidate",
+        "title": "topo_profile_candidate",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 13320384,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1770025620753,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,28 @@
+{
+    "id": "984D2EB0",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1770027962544.0,
+    "source_on_save": false,
+    "relative_order": 12,
+    "properties": {
+        "id": "6d3849c9e01d405a84537321f12295bc",
+        "name": "roads",
+        "title": "roads",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 4663853264363478759,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1770027962544,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,26 @@
+{
+    "id": "B181902D",
+    "path": "~/Documents/_CDD LECA/Ecriture/Code/OPH-STAM2-LECA/distances2road/distance.r",
+    "project_path": "distance.r",
+    "type": "r_source",
+    "hash": "2510674109",
+    "contents": "",
+    "dirty": false,
+    "created": 1769618997704.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "271,71",
+        "scrollLine": "265"
+    },
+    "folds": "28|61|50|0|\n109|46|150|0|\n",
+    "lastKnownWriteTime": 1770044125,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1770044125786,
+    "read_only": false,
+    "read_only_alternatives": []
+}
