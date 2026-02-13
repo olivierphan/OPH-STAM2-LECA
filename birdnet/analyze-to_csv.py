@@ -28,7 +28,7 @@ from datetime import datetime
 from pathlib import Path
 
 # grab all birdnet output files
-filelist = glob(SAVE_PATH+'/audio3s/'+'/*.csv', recursive = True)
+filelist = glob(SAVE_PATH+'/audio3s_c/'+'/*.csv', recursive = True)
 
 
 filelist = [x for x in filelist if 'BirdNET_analysis_params.csv' not in x]
@@ -80,5 +80,5 @@ for file in filelist:
 df_raw_birdnet[df_raw_birdnet["label"]!="none"]["filename"].unique()
 
 veheng_files = df_raw_birdnet
-veheng_files.to_csv(os.path.join(DATA_PATH,'vehicle_engine_c-audio3s.csv'))
+veheng_files.to_csv(os.path.join(DATA_PATH,'vehicle_engine_b-audio3s.csv'))
 

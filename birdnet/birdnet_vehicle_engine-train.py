@@ -26,9 +26,9 @@ os.chdir(PACKAGE_PATH)
 
 cmd_train = [
     "python", "-m", "BirdNET-Analyzer.birdnet_analyzer.train",
-    f"{SUPP_AUDIO_PATH}/VEHICLE_ENGINEC_DATASET/TRAIN",
-    "--test_data",f"{SUPP_AUDIO_PATH}/VEHICLE_ENGINEC_DATASET/TEST",
-    "--output", f"{MODEL_PATH}/custom_birdnet_vehicle_engine_c",
+    f"{SUPP_AUDIO_PATH}/VEHICLE_ENGINEB_DATASET/TRAIN",
+    # "--test_data",f"{SUPP_AUDIO_PATH}/VEHICLE_ENGINEB_DATASET/TEST",
+    "--output", f"{MODEL_PATH}/custom_birdnet_vehicle_engine_b",
     "--mixup",
     "--hidden_units", "16",
     "--dropout", "0.33",

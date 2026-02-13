@@ -25,8 +25,8 @@ os.chdir(PACKAGE_PATH)
 cmd_analyze = [
   "python", "-m", "birdnet_analyzer.analyze", 
   f"{SUPP_AUDIO_PATH}", 
-  "-c",f"{MODEL_PATH}/custom_birdnet_vehicle_engine_c.tflite",
-  "-o", f"{SAVE_PATH}/audio3s", 
+  "-c",f"{MODEL_PATH}/custom_birdnet_vehicle_engine_b.tflite",
+  "-o", f"{SAVE_PATH}/audio3s_b", 
   "--min_conf", "0.1", 
   "--rtype", "csv"]
 
