@@ -13,7 +13,6 @@ plt.style.use("default")
 
 import subprocess
 
-
 DATA_PATH = r'C:\Users\phano\Documents\_CDD LECA\Ecriture\Code\OPH-STAM2-LECA\birdnet'
 SUPP_AUDIO_PATH = r'C:\Users\phano\Documents\_MoBI 2024\LECA2025\Audio\Audio-3s-32000'
 SAVE_PATH = r'C:\Users\phano\Documents\_CDD LECA\Ecriture\Code\OPH-STAM2-LECA\birdnet\save'
@@ -23,10 +22,10 @@ MODEL_PATH = r'C:\Users\phano\Documents\_CDD LECA\Ecriture\Code\OPH-STAM2-LECA\b
 os.chdir(PACKAGE_PATH)
 
 cmd_analyze = [
-  "python", "-m", "birdnet_analyzer.analyze", 
+  "python", "-m", "BirdNET-Analyzer.birdnet_analyzer.analyze", 
   f"{SUPP_AUDIO_PATH}", 
   "-c",f"{MODEL_PATH}/custom_birdnet_vehicle_engine_b.tflite",
-  "-o", f"{SAVE_PATH}/audio3s_b", 
+  "-o", f"{SAVE_PATH}/audio3s_b2", 
   "--min_conf", "0.1", 
   "--rtype", "csv"]
 
